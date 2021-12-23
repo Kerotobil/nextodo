@@ -1,0 +1,34 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextodo-dev-101701-authRole",
+      "UnauthRoleArn": "arn:aws:iam::889131880451:role/amplify-nextodo-dev-101701-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::889131880451:role/amplify-nextodo-dev-101701-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-nextodo-dev-101701-deployment",
+      "UnauthRoleName": "amplify-nextodo-dev-101701-unauthRole",
+      "StackName": "amplify-nextodo-dev-101701",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:889131880451:stack/amplify-nextodo-dev-101701/60c99920-6069-11ec-b325-0616a1c70b31",
+      "AmplifyAppId": "d1xkprxmixdr5w"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1xkprxmixdr5w",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "nextodo88bff60d": {
+          "googleClientId": "649235257892-cipjdsbgv79jpucomvck4tjraoe6bn4u.apps.googleusercontent.com"
+        }
+      },
+      "function": {
+        "AdminQueries46a97f7c": {
+          "deploymentBucketName": "amplify-nextodo-dev-101701-deployment",
+          "s3Key": "amplify-builds/AdminQueries46a97f7c-4c367564704d646c5236-build.zip"
+        }
+      }
+    }
+  }
+}
